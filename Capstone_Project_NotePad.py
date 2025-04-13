@@ -1,13 +1,5 @@
 '''
-Text Editor - Notepad style application that can open, edit, and save text documents. Optional: Add syntax highlighting and other features.
-Welcome to Python Notepad!
- print("1. Open File")
-    print("2. Create New File")
-    print("3. Edit Text")
-    print("4. Save File")
-    print("5. View Current Content")
-    print("6. Exit")
-Enter your choice:
+Text Editor - Notepad style application that can open, edit, and save text documents. 
 '''
 
 
